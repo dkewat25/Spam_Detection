@@ -7,3 +7,7 @@ import re
 import string
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
+
+DATASET_PATH = 'combined_data.csv' # Make sure this matches your downloaded file name
+TEXT_COLUMN = 'text'     # Adjust if your dataset uses a different column name for email content
+LABEL_COLUMN = 'label'   # Adjust if your dataset uses a different column name for labels (spam/ham)
