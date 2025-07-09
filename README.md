@@ -1,15 +1,15 @@
 
 ---
 
-# 📧 Spam-Ham Classifier
+#  Spam-Ham Classifier
 
-## 🔍 Project Description
+##  Project Description
 
 This project presents a simple and interactive web application that classifies email messages as either **"Spam"** or **"Ham"** (not spam). Built using **Streamlit**, it utilizes a **pre-trained machine learning model** for real-time classification based on user input.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **User-Friendly Interface**: Clean, intuitive web UI powered by Streamlit.
 * **Real-time Classification**: Instantly classifies entered messages.
@@ -23,7 +23,7 @@ This project presents a simple and interactive web application that classifies e
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **Preprocessing**:
 
@@ -46,7 +46,7 @@ This project presents a simple and interactive web application that classifies e
 
 ---
 
-## 📁 Files in this Repository
+##  Files in this Repository
 
 | File/Folder           | Description                                    |
 | --------------------- | ---------------------------------------------- |
@@ -59,13 +59,13 @@ This project presents a simple and interactive web application that classifies e
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The model was trained using the **`spam_ham_dataset.csv`** dataset.
 
-📌 **Note:** The dataset is **not included** in the repo due to size limitations.
+ 
 
-➡️ **Download here**:
+➡ **Download here**:
 (https://drive.google.com/file/d/1kXrMjjIfYXieD_fw5SvXi1KXKhMYxmxl/view)
 
 After downloading, place the file in the project root folder:
@@ -76,7 +76,7 @@ After downloading, place the file in the project root folder:
 
 ---
 
-## 🧪 Local Setup & Installation
+##  Local Setup & Installation
 
 ### 1. Clone the repository:
 
@@ -131,7 +131,7 @@ The app will launch in your browser.
 
 ---
 
-## 🛠️ Usage
+##   Usage
 
 1. **Enter Email Text**: Paste/type an email into the textbox.
 2. **Click "🔍 Classify"**: Let the model analyze your input.
@@ -139,7 +139,7 @@ The app will launch in your browser.
 
 ---
 
-## 🌐 Live Demo
+##  Live Demo
 
 Access the deployed app here:
 [🔗 Streamlit App Link](https://spamclassifierdk.streamlit.app/)
