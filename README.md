@@ -143,7 +143,7 @@ The app will launch in your browser.
 
 Access the deployed app here:
 [🔗 Streamlit App Link](https://spamclassifierdk.streamlit.app/)
-*Replace this link with your actual Streamlit deployment URL.*
+*
 
 ---
 
