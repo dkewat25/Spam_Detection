@@ -1,6 +1,3 @@
-
----
-
 #  Spam-Ham Classifier
 
 ##  Project Description
